@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/flexguard-joint/sitemap.xml
+Sitemap: https://flexguard-joint.vercel.app/sitemap-vercel.xml
+Sitemap: https://flexguard-joint.pages.dev/sitemap-cloudflare.xml
